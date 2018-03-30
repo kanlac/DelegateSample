@@ -1,2 +1,2 @@
 # DelegateSample
-Demonstrate message transmitting between VCs.
+Two methods for transmitting message between View Controllers: Delegate and NSNotification.
